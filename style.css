@@ -48,7 +48,7 @@ header{
 
 .card{
     background-color: white;
-    width: 5rem;
+    width: 8.5rem;
     height: 20rem;
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
@@ -57,14 +57,15 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 15rem;
-    padding-left: 5rem;
+    /* margin-left: 15rem; */
+    /* padding-left: 5rem; */
     text-align: center;
     padding-bottom: 2rem;
     
    
 
 }
+
 
 .center{
     font-size: 1.5rem;
@@ -83,8 +84,14 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 2.5rem;
-    padding-left: 0.5rem;
+    /* margin-left: 2.5rem;
+    padding-left: 0.5rem; */
+}
+.flex-class {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .card-two{
@@ -98,8 +105,8 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 2.5rem;
-    padding-left: 0.5rem;
+    /* margin-left: 2.5rem;
+    padding-left: 0.5rem; */
 }
 
 .card-three{
@@ -113,8 +120,8 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 2.5rem;
-    padding-left: 0.5rem;
+    /* margin-left: 2.5rem;
+    padding-left: 0.5rem; */
 }
 
 .card-four{
@@ -128,8 +135,8 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 2.5rem;
-    padding-left: 0.5rem;
+    /* margin-left: 2.5rem;
+    padding-left: 0.5rem; */
 }
 
 .section-one{
@@ -138,6 +145,7 @@ header{
     align-items: center;
     flex-direction: row;
     padding-top: 2rem;
+    gap: 1rem;
     /* gap: ; */
 }
 
@@ -152,8 +160,8 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 2.5rem;
-    padding-left: 0.5rem;
+    /* margin-left: 2.5rem;
+    padding-left: 0.5rem; */
 }
 
 .card-six{
@@ -167,8 +175,8 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 2.5rem;
-    padding-left: 0.5rem;
+    /* margin-left: 2.5rem;
+    padding-left: 0.5rem; */
 }
 
 .card-seven{
@@ -182,8 +190,8 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 2.5rem;
-    padding-left: 0.5rem;
+    /* margin-left: 2.5rem;
+    padding-left: 0.5rem; */
 }
 
 .card-eight{
@@ -197,8 +205,8 @@ header{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-left: 2.5rem;
-    padding-left: 0.5rem;
+    /* margin-left: 2.5rem;
+    padding-left: 0.5rem; */
 }
 
 
@@ -208,6 +216,7 @@ header{
     align-items: center;
     flex-direction: row;
     padding-top: 2rem;
+    gap: 1rem;
 }
 
 
